@@ -1,0 +1,10 @@
+Superuser: 
+  Login ID-admin
+  Password-admin
+
+
+OPENING THE PROJECT:
+  Open the folder containing manage.py as pycharm project.
+  Open terminal, install django with command>> pip install django
+  Run the server using command>> python manage.py runserver
+  A localhost link is provided,click on the link and the project opens on your browser.
